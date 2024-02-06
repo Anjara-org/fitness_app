@@ -1,0 +1,6 @@
+[submodule "fitness_front"]
+	path = fitness_front
+	url = https://github.com/Anjara-org/fitness_front
+[submodule "fitness_back"]
+	path = fitness_back
+	url = https://github.com/Anjara-org/fitness_back
