@@ -4,7 +4,7 @@
 - Randrianarijaona Manoa Lahatra (Lead)
 - Rafaliarison Riantsoa (Front end)
 - Rakoto Harisata Andinirina (Front end)
-- Andrianarivelo Faniry (Back end)
+- Randrianarivelo Faniry (Back end)
 - Andriamparatiana Fanambinantsoa (Dev ops)
 
 ## Liens vers les dépôts Git du projet
